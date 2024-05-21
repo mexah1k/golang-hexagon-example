@@ -1,0 +1,13 @@
+{
+  "Environment": "Development",
+  "Port": "3300",
+  "Kafka": {
+    "Broker": "localhost:9093",
+    "Topic": "url-demo",
+    "GroupId": "url-demo-group"
+  },
+  "Mongo": {
+    "ConnectionString": "mongodb://localhost:27017",
+    "Collection": "url-analysis"
+  }
+}

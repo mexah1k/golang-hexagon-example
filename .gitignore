@@ -1,0 +1,9 @@
+# Ignore JetBrains IDE project files
+.idea/
+
+# Other common ignores
+*.log
+*.tmp
+tmp/
+vendor/
+bin/
