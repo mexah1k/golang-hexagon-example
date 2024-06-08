@@ -1,4 +1,5 @@
 # Golang Hexagon Service Example + Kafka + MongoDB + Echo server
+##Medium article: https://medium.com/@mike_polo/structuring-a-golang-project-hexagonal-architecture-43b4de480c14
 
 ## Introduction
 How to run the service:
